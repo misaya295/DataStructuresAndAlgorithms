@@ -1,16 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e762f3bb-6a53-4f35-a47e-48ff8fae2737" name="Default Changelist" comment="" />
+    <list default="true" id="e762f3bb-6a53-4f35-a47e-48ff8fae2737" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cwk/sparesearray/SpareseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/Main.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1b1Oki3Y9Qyc1mNgc1dSYZMHkUK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="abbreviatePackageNames" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -18,10 +40,14 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SpareseArray">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.cwk.Main" />
       <module name="DataStructuresAndAlgorithms" />
@@ -32,6 +58,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cwk.Solution" />
+      <module name="DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cwk.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpareseArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cwk.sparesearray.SpareseArray" />
+      <module name="DataStructuresAndAlgorithms" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cwk.sparesearray.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Solution" />
+      <item itemvalue="Application.SpareseArray" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SpareseArray" />
+        <item itemvalue="Application.Solution" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -43,7 +106,52 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587796277132</updated>
+      <workItem from="1587796278916" duration="7063000" />
+      <workItem from="1587870025293" duration="2411000" />
+      <workItem from="1587883775383" duration="559000" />
+      <workItem from="1588047453062" duration="739000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1472" y="133" key="#Project_Structure" timestamp="1587796283179">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1472" y="133" key="#Project_Structure/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587796283179" />
+    <state width="1878" height="490" key="GridCell.Tab.0.bottom" timestamp="1588047864870">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="490" key="GridCell.Tab.0.bottom/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588047864870" />
+    <state width="1238" height="6" key="GridCell.Tab.0.bottom/0.23.1280.722/-1920.23.1920.1057@0.23.1280.722" timestamp="1587875269904" />
+    <state width="1878" height="2" key="GridCell.Tab.0.bottom/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587813404487" />
+    <state width="1131" height="170" key="GridCell.Tab.0.bottom/0.23.1920.1002@0.23.1920.1002" timestamp="1587871741587" />
+    <state width="1878" height="490" key="GridCell.Tab.0.center" timestamp="1588047864869">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="490" key="GridCell.Tab.0.center/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588047864869" />
+    <state width="1238" height="6" key="GridCell.Tab.0.center/0.23.1280.722/-1920.23.1920.1057@0.23.1280.722" timestamp="1587875269902" />
+    <state width="1878" height="2" key="GridCell.Tab.0.center/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587813404486" />
+    <state width="1131" height="170" key="GridCell.Tab.0.center/0.23.1920.1002@0.23.1920.1002" timestamp="1587871741585" />
+    <state width="1878" height="490" key="GridCell.Tab.0.left" timestamp="1588047864868">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="490" key="GridCell.Tab.0.left/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588047864868" />
+    <state width="1238" height="6" key="GridCell.Tab.0.left/0.23.1280.722/-1920.23.1920.1057@0.23.1280.722" timestamp="1587875269900" />
+    <state width="1878" height="2" key="GridCell.Tab.0.left/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587813404486" />
+    <state width="1131" height="170" key="GridCell.Tab.0.left/0.23.1920.1002@0.23.1920.1002" timestamp="1587871741585" />
+    <state width="1878" height="490" key="GridCell.Tab.0.right" timestamp="1588047864869">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="490" key="GridCell.Tab.0.right/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588047864869" />
+    <state width="1238" height="6" key="GridCell.Tab.0.right/0.23.1280.722/-1920.23.1920.1057@0.23.1280.722" timestamp="1587875269903" />
+    <state width="1878" height="2" key="GridCell.Tab.0.right/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587813404487" />
+    <state width="1131" height="170" key="GridCell.Tab.0.right/0.23.1920.1002@0.23.1920.1002" timestamp="1587871741586" />
+    <state x="-1295" y="258" width="670" height="676" key="search.everywhere.popup" timestamp="1587807586013">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1295" y="258" width="670" height="676" key="search.everywhere.popup/0.23.1280.723/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1587807586013" />
   </component>
 </project>
