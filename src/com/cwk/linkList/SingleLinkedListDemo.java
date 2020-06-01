@@ -1,5 +1,7 @@
 package com.cwk.linkList;
 
+import java.util.concurrent.TimeUnit;
+
 public class SingleLinkedListDemo {
 
 
@@ -17,10 +19,15 @@ public class SingleLinkedListDemo {
         SingleLinkedList singleLinkedList = new SingleLinkedList();
 
         //加入
-        singleLinkedList.add(heroNode1);
-        singleLinkedList.add(heroNode4);
-        singleLinkedList.add(heroNode2);
-        singleLinkedList.add(heroNode3);
+        singleLinkedList.addByOrder(heroNode1);
+        singleLinkedList.addByOrder(heroNode4);
+        singleLinkedList.addByOrder(heroNode2);
+        singleLinkedList.addByOrder(heroNode3);
+        singleLinkedList.addByOrder(heroNode3);
+
+        HeroNode newHeroNode = new HeroNode(2, "1", "1");
+        singleLinkedList.update(newHeroNode);
+
 
         //显示
         singleLinkedList.list();
@@ -77,6 +84,115 @@ class SingleLinkedList {
         temp.next = heroNode;
 
     }
+
+
+    /**
+    修改节点的信息，根据no编号来修改，即no编号不能改
+
+     */
+    public void update(HeroNode newherNode) {
+
+        if (head.next == null
+        ) {
+            return;
+        }
+        //找到需要修改的节点，根据弄编号
+        HeroNode temp = head.next;
+        boolean flag = false;
+        while (true) {
+            if (temp == null) {
+
+                break;//到链表的最后
+            }
+            if (temp.no == newherNode.no) {
+                //找到
+                flag = true;
+                break;
+            }
+            temp = temp.next;
+        }
+
+        if (false) {
+            temp.no = newherNode.no;
+            temp.nickName = newherNode.nickName;
+        } else {
+            System.out.printf("没有找到编号%d 的节点",newherNode.no);
+        }
+
+
+    }
+
+
+
+
+
+
+
+
+
+    /*
+    第二种添加英雄的方式，根据排名将英雄插入到指定位置
+     （如果有这排名，则添加失败，并给出提示）
+     */
+
+    public void addByOrder(HeroNode heroNode) {
+
+        /*
+        因为头节点不懂动，因此我们仍然通过一个辅助指针（变量）来帮助找到添加的位置
+        因为是单链表，因此我们找的temp是位于添加位置的前一个节点，否则插入不了
+         */
+        HeroNode tmp = head;
+        /*
+        标实添加的编号是否存在
+        默认false
+         */
+        boolean flag = false;
+
+        while (true) {
+            //说明tmp已经在链表的最后
+            if (tmp.next == null) {
+                break;
+            }
+            //位置找到，就在tmp的后面插入
+            if (tmp.next.no > heroNode.no) {
+
+                break; } else if (tmp.next.no == heroNode.no) {
+                //说明希望添加的heroNode的编号已经存在
+
+                flag = true;
+                break;
+
+            }
+
+            //后移，遍历当前链表
+            tmp = tmp.next;
+
+
+        }
+
+
+        /*
+        判断flag的值
+         */
+        if (flag) {
+            System.out.printf("准备插入的英雄的编号%d 已经存在，不能加入\n", heroNode.no);
+        } else {
+            //插入到链表冲
+            heroNode.next = tmp.next;
+            tmp.next = heroNode;
+
+        }
+
+
+
+
+
+    }
+
+
+
+
+
 
     /**
      * 显示链表
