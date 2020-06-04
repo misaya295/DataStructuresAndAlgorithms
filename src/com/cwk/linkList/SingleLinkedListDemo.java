@@ -50,8 +50,12 @@ public class SingleLinkedListDemo {
         singleLinkedList.list();
 
         System.out.println("--------");
-        reversetList(singleLinkedList.getHead());
-        singleLinkedList.list();
+//        reversetList(singleLinkedList.getHead());
+//        singleLinkedList.list();
+
+        reversePrint(singleLinkedList.getHead());
+
+
     }
 
     /**
@@ -62,9 +66,27 @@ public class SingleLinkedListDemo {
             return;
         }
 
-//        Stack<Str>
+
+        //创建要给一个栈，将各个节点压入栈
+        Stack<HeroNode> stack = new Stack<>();
+        HeroNode cur = head.next;
+        //将链表的所有节点压入栈中
+        while (cur != null) {
 
 
+            stack.push(cur);
+            cur = cur.next;
+
+        }
+
+        while (stack.size() > 0) {
+
+
+
+            //stack特点是先进后出
+            System.out.println(stack.pop());
+
+        }
 
 
     }
