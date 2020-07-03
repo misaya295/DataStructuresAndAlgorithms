@@ -2,10 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e762f3bb-6a53-4f35-a47e-48ff8fae2737" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cwk/binarySortTree/BinarySortTreeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cwk/graph/Graph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/cwk/huffmanTree/HuffmanTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cwk/algorithm/binarysearchnorecusion/BinarySerchNoRecur.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/binarySortTree/BinarySortTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/binarySortTree/BinarySortTreeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/bluebridgebei/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/bluebridgebei/Main1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/graph/Graph.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/hashTable/HashTabDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/hashTable/HashTabDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/huffmanTree/HuffmanTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/huffmanTree/HuffmanTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/linkList/DoubleLinkListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/linkList/DoubleLinkListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/linkList/Josepfu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/linkList/Josepfu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/linkList/SingleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/linkList/SingleLinkedListDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/linkList/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/linkList/TestStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/queue/ArrayQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/queue/ArrayQueueDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/queue/CircleArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/queue/CircleArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/recursion/Migong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/recursion/Migong.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/recursion/Queen8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/recursion/Queen8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/search/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/search/FibonacciSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/search/FibonacciSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/search/InsertSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/search/InsertSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/search/SeqSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/search/SeqSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sort/InsertSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sort/MergeSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/sort/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sort/RadixSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/sort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sort/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sort/ShellSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/sparesearray/SpareseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sparesearray/SpareseArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/stack/ArrayStackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/stack/ArrayStackDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/stack/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/stack/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/stack/PolandNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/stack/PolandNotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/tree/ArrBinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/tree/ArrBinaryTreeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/tree/BinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/tree/BinaryTreeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/tree/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/tree/HeapSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/cwk/tree/threaded/ThreadedBinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/tree/threaded/ThreadedBinaryTreeDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +90,13 @@
       <recent name="$PROJECT_DIR$/src/com/cwk/tree/threaded" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Graph">
-    <configuration name="ArrBinaryTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cwk.tree.ArrBinaryTreeDemo" />
+  <component name="RunManager" selected="Application.BinarySerchNoRecur">
+    <configuration name="BinarySerchNoRecur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cwk.algorithm.binarysearchnorecusion.BinarySerchNoRecur" />
       <module name="DataStructuresAndAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cwk.tree.threaded.*" />
+          <option name="PATTERN" value="com.cwk.algorithm.binarysearchnorecusion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,11 +105,11 @@
       </method>
     </configuration>
     <configuration name="BinarySortTreeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cwk.binarySortTree.BinarySortTreeDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.cwk.dataStructures.binarySortTree.BinarySortTreeDemo" />
       <module name="DataStructuresAndAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cwk.binarySortTree.*" />
+          <option name="PATTERN" value="com.cwk.dataStructures.binarySortTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,11 +118,11 @@
       </method>
     </configuration>
     <configuration name="Graph" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cwk.graph.Graph" />
+      <option name="MAIN_CLASS_NAME" value="com.cwk.dataStructures.graph.Graph" />
       <module name="DataStructuresAndAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cwk.graph.*" />
+          <option name="PATTERN" value="com.cwk.dataStructures.graph.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,11 +131,11 @@
       </method>
     </configuration>
     <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cwk.tree.HeapSort" />
+      <option name="MAIN_CLASS_NAME" value="com.cwk.dataStructures.tree.HeapSort" />
       <module name="DataStructuresAndAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cwk.tree.*" />
+          <option name="PATTERN" value="com.cwk.dataStructures.tree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,11 +144,11 @@
       </method>
     </configuration>
     <configuration name="HuffmanTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cwk.huffmanTree.HuffmanTree" />
+      <option name="MAIN_CLASS_NAME" value="com.cwk.dataStructures.huffmanTree.HuffmanTree" />
       <module name="DataStructuresAndAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cwk.huffmanTree.*" />
+          <option name="PATTERN" value="com.cwk.dataStructures.huffmanTree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +158,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BinarySerchNoRecur" />
         <item itemvalue="Application.Graph" />
         <item itemvalue="Application.BinarySortTreeDemo" />
         <item itemvalue="Application.HuffmanTree" />
         <item itemvalue="Application.HeapSort" />
-        <item itemvalue="Application.ArrBinaryTreeDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +233,8 @@
       <workItem from="1593591108974" duration="4904000" />
       <workItem from="1593694894017" duration="5000" />
       <workItem from="1593696391842" duration="1041000" />
-      <workItem from="1593701116859" duration="730000" />
+      <workItem from="1593701116859" duration="2333000" />
+      <workItem from="1593745027259" duration="1643000" />
     </task>
     <task id="LOCAL-00001" summary="稀疏数组">
       <created>1588048365156</created>
@@ -296,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593518933595</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="深度优先">
+      <created>1593702145828</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1593702145828</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -316,7 +354,8 @@
     <MESSAGE value="基数排序 快查 二分查" />
     <MESSAGE value="哈希表" />
     <MESSAGE value="二叉树 堆排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="二叉树 堆排序" />
+    <MESSAGE value="深度优先" />
+    <option name="LAST_COMMIT_MESSAGE" value="深度优先" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1472" y="133" key="#Project_Structure" timestamp="1587796283179">
@@ -344,8 +383,8 @@
       <screen x="0" y="23" width="1920" height="999" />
     </state>
     <state x="1163" y="277" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1920.999@0.23.1920.999" timestamp="1592044018572" />
-    <state x="-1415" y="128" key="CommitChangelistDialog2" timestamp="1593518933262">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state x="379" y="23" width="910" height="825" key="CommitChangelistDialog2" timestamp="1593702145583">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="-1415" y="128" key="CommitChangelistDialog2/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1590211510887" />
     <state x="-1415" y="128" key="CommitChangelistDialog2/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591237857506" />
@@ -353,6 +392,7 @@
     <state x="-1415" y="128" key="CommitChangelistDialog2/0.23.1280.728/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592188132423" />
     <state x="-1415" y="128" key="CommitChangelistDialog2/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593518933262" />
     <state x="-1415" y="122" key="CommitChangelistDialog2/0.23.1280.777/-1920.23.1920.1001@-1920.23.1920.1001" timestamp="1591006901278" />
+    <state x="379" y="23" width="910" height="825" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1593702145583" />
     <state x="505" y="122" key="CommitChangelistDialog2/0.23.1920.993@0.23.1920.993" timestamp="1592410855458" />
     <state width="706" height="937" key="GridCell.Tab.0.bottom" timestamp="1593654585715">
       <screen x="-1920" y="23" width="1920" height="1057" />
@@ -458,8 +498,8 @@
     </state>
     <state width="1878" height="358" key="GridCell.Tab.1.right/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588055722172" />
     <state width="1878" height="358" key="GridCell.Tab.1.right/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592456741763" />
-    <state x="-1360" y="291" key="Vcs.Push.Dialog.v2" timestamp="1593518938222">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state x="420" y="232" key="Vcs.Push.Dialog.v2" timestamp="1593702163263">
+      <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="-1360" y="291" key="Vcs.Push.Dialog.v2/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1590211538064" />
     <state x="-1360" y="291" key="Vcs.Push.Dialog.v2/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591237867483" />
@@ -467,6 +507,7 @@
     <state x="-1360" y="291" key="Vcs.Push.Dialog.v2/0.23.1280.728/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592188137113" />
     <state x="-1360" y="291" key="Vcs.Push.Dialog.v2/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593518938222" />
     <state x="-1360" y="277" key="Vcs.Push.Dialog.v2/0.23.1280.777/-1920.23.1920.1001@-1920.23.1920.1001" timestamp="1591006907931" />
+    <state x="420" y="232" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1593702163263" />
     <state x="560" y="275" key="Vcs.Push.Dialog.v2/0.23.1920.993@0.23.1920.993" timestamp="1592410862382" />
     <state x="-1295" y="256" key="run.anything.popup" timestamp="1592212864218">
       <screen x="-1920" y="23" width="1920" height="1057" />
