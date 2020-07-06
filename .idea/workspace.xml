@@ -2,40 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e762f3bb-6a53-4f35-a47e-48ff8fae2737" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/cwk/algorithm/binarysearchnorecusion/BinarySerchNoRecur.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cwk/dac/Hanoitower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/cwk/dac/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/binarySortTree/BinarySortTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/binarySortTree/BinarySortTreeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/bluebridgebei/Main1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/bluebridgebei/Main1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/graph/Graph.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/graph/Graph.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/hashTable/HashTabDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/hashTable/HashTabDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/huffmanTree/HuffmanTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/huffmanTree/HuffmanTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/linkList/DoubleLinkListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/linkList/DoubleLinkListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/linkList/Josepfu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/linkList/Josepfu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/linkList/SingleLinkedListDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/linkList/SingleLinkedListDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/linkList/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/linkList/TestStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/queue/ArrayQueueDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/queue/ArrayQueueDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/queue/CircleArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/queue/CircleArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/recursion/Migong.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/recursion/Migong.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/recursion/Queen8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/recursion/Queen8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/search/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/search/BinarySearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/search/FibonacciSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/search/FibonacciSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/search/InsertSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/search/InsertSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/search/SeqSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/search/SeqSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/sort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sort/BubbleSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sort/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/sort/MergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sort/MergeSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/sort/RadixSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sort/RadixSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/sort/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sort/SelectSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sort/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/sparesearray/SpareseArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/sparesearray/SpareseArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/stack/ArrayStackDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/stack/ArrayStackDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/stack/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/stack/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/stack/PolandNotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/stack/PolandNotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/tree/ArrBinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/tree/ArrBinaryTreeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/tree/BinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/tree/BinaryTreeDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/tree/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/tree/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/cwk/tree/threaded/ThreadedBinaryTreeDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/cwk/dataStructures/tree/threaded/ThreadedBinaryTreeDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructuresAndAlgorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructuresAndAlgorithms.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,6 +39,10 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -90,7 +64,7 @@
       <recent name="$PROJECT_DIR$/src/com/cwk/tree/threaded" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BinarySerchNoRecur">
+  <component name="RunManager" selected="Application.Solution">
     <configuration name="BinarySerchNoRecur" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.cwk.algorithm.binarysearchnorecusion.BinarySerchNoRecur" />
       <module name="DataStructuresAndAlgorithms" />
@@ -130,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cwk.dataStructures.tree.HeapSort" />
+    <configuration name="Hanoitower" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cwk.dac.Hanoitower" />
       <module name="DataStructuresAndAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cwk.dataStructures.tree.*" />
+          <option name="PATTERN" value="com.cwk.dac.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HuffmanTree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.cwk.dataStructures.huffmanTree.HuffmanTree" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cwk.dac.Solution" />
       <module name="DataStructuresAndAlgorithms" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.cwk.dataStructures.huffmanTree.*" />
+          <option name="PATTERN" value="com.cwk.dac.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Hanoitower" />
         <item itemvalue="Application.BinarySerchNoRecur" />
         <item itemvalue="Application.Graph" />
         <item itemvalue="Application.BinarySortTreeDemo" />
-        <item itemvalue="Application.HuffmanTree" />
-        <item itemvalue="Application.HeapSort" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +208,11 @@
       <workItem from="1593694894017" duration="5000" />
       <workItem from="1593696391842" duration="1041000" />
       <workItem from="1593701116859" duration="2333000" />
-      <workItem from="1593745027259" duration="1643000" />
+      <workItem from="1593745027259" duration="3044000" />
+      <workItem from="1593758349736" duration="1133000" />
+      <workItem from="1593778248942" duration="1277000" />
+      <workItem from="1594003741418" duration="950000" />
+      <workItem from="1594023734845" duration="6516000" />
     </task>
     <task id="LOCAL-00001" summary="稀疏数组">
       <created>1588048365156</created>
@@ -334,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593702145828</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="广度优先 二分查找（非递归）">
+      <created>1593748660513</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1593748660513</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,7 +340,8 @@
     <MESSAGE value="哈希表" />
     <MESSAGE value="二叉树 堆排序" />
     <MESSAGE value="深度优先" />
-    <option name="LAST_COMMIT_MESSAGE" value="深度优先" />
+    <MESSAGE value="广度优先 二分查找（非递归）" />
+    <option name="LAST_COMMIT_MESSAGE" value="广度优先 二分查找（非递归）" />
   </component>
   <component name="WindowStateProjectService">
     <state x="-1472" y="133" key="#Project_Structure" timestamp="1587796283179">
@@ -383,19 +369,19 @@
       <screen x="0" y="23" width="1920" height="999" />
     </state>
     <state x="1163" y="277" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.23.1920.999@0.23.1920.999" timestamp="1592044018572" />
-    <state x="379" y="23" width="910" height="825" key="CommitChangelistDialog2" timestamp="1593702145583">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state x="-1442" y="128" width="910" height="825" key="CommitChangelistDialog2" timestamp="1593748660172">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-1415" y="128" key="CommitChangelistDialog2/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1590211510887" />
     <state x="-1415" y="128" key="CommitChangelistDialog2/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591237857506" />
     <state x="-1415" y="128" key="CommitChangelistDialog2/0.23.1280.724/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592056473795" />
     <state x="-1415" y="128" key="CommitChangelistDialog2/0.23.1280.728/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592188132423" />
-    <state x="-1415" y="128" key="CommitChangelistDialog2/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593518933262" />
+    <state x="-1442" y="128" key="CommitChangelistDialog2/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593748660172" />
     <state x="-1415" y="122" key="CommitChangelistDialog2/0.23.1280.777/-1920.23.1920.1001@-1920.23.1920.1001" timestamp="1591006901278" />
     <state x="379" y="23" width="910" height="825" key="CommitChangelistDialog2/0.23.1440.825@0.23.1440.825" timestamp="1593702145583" />
     <state x="505" y="122" key="CommitChangelistDialog2/0.23.1920.993@0.23.1920.993" timestamp="1592410855458" />
-    <state width="706" height="937" key="GridCell.Tab.0.bottom" timestamp="1593654585715">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="449" height="869" key="GridCell.Tab.0.bottom" timestamp="1594033388926">
+      <screen x="-1920" y="25" width="1920" height="1055" />
     </state>
     <state width="1878" height="224" key="GridCell.Tab.0.bottom/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1590211473669" />
     <state width="1878" height="230" key="GridCell.Tab.0.bottom/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591248251612" />
@@ -405,7 +391,7 @@
     <state width="1377" height="305" key="GridCell.Tab.0.bottom/0.23.1280.726/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591162244362" />
     <state width="1878" height="230" key="GridCell.Tab.0.bottom/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591670798712" />
     <state width="708" height="937" key="GridCell.Tab.0.bottom/0.23.1280.728/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592211961243" />
-    <state width="706" height="937" key="GridCell.Tab.0.bottom/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593609315881" />
+    <state width="550" height="937" key="GridCell.Tab.0.bottom/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593762219930" />
     <state width="207" height="937" key="GridCell.Tab.0.bottom/0.23.1280.730/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592642640966" />
     <state width="706" height="937" key="GridCell.Tab.0.bottom/0.23.1280.732/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593654585715" />
     <state width="1878" height="2" key="GridCell.Tab.0.bottom/0.23.1280.777/-1920.23.1920.1001@-1920.23.1920.1001" timestamp="1589879199488" />
@@ -415,8 +401,9 @@
     <state width="373" height="883" key="GridCell.Tab.0.bottom/0.23.1920.1003@0.23.1920.1003" timestamp="1593523987446" />
     <state width="394" height="873" key="GridCell.Tab.0.bottom/0.23.1920.993@0.23.1920.993" timestamp="1592410903313" />
     <state width="265" height="879" key="GridCell.Tab.0.bottom/0.23.1920.999@0.23.1920.999" timestamp="1592054396217" />
-    <state width="706" height="937" key="GridCell.Tab.0.center" timestamp="1593654585678">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="449" height="869" key="GridCell.Tab.0.bottom/0.25.1280.720/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1594033388926" />
+    <state width="449" height="869" key="GridCell.Tab.0.center" timestamp="1594033388925">
+      <screen x="-1920" y="25" width="1920" height="1055" />
     </state>
     <state width="1878" height="224" key="GridCell.Tab.0.center/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1590211473668" />
     <state width="1878" height="230" key="GridCell.Tab.0.center/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591248251611" />
@@ -426,7 +413,7 @@
     <state width="1377" height="305" key="GridCell.Tab.0.center/0.23.1280.726/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591162244361" />
     <state width="1878" height="230" key="GridCell.Tab.0.center/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591670798710" />
     <state width="708" height="937" key="GridCell.Tab.0.center/0.23.1280.728/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592211961240" />
-    <state width="706" height="937" key="GridCell.Tab.0.center/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593609315879" />
+    <state width="550" height="937" key="GridCell.Tab.0.center/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593762219929" />
     <state width="207" height="937" key="GridCell.Tab.0.center/0.23.1280.730/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592642640962" />
     <state width="706" height="937" key="GridCell.Tab.0.center/0.23.1280.732/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593654585678" />
     <state width="1878" height="2" key="GridCell.Tab.0.center/0.23.1280.777/-1920.23.1920.1001@-1920.23.1920.1001" timestamp="1589879199485" />
@@ -436,8 +423,9 @@
     <state width="373" height="883" key="GridCell.Tab.0.center/0.23.1920.1003@0.23.1920.1003" timestamp="1593523987445" />
     <state width="394" height="873" key="GridCell.Tab.0.center/0.23.1920.993@0.23.1920.993" timestamp="1592410903312" />
     <state width="265" height="879" key="GridCell.Tab.0.center/0.23.1920.999@0.23.1920.999" timestamp="1592054396216" />
-    <state width="706" height="937" key="GridCell.Tab.0.left" timestamp="1593654585676">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="449" height="869" key="GridCell.Tab.0.center/0.25.1280.720/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1594033388925" />
+    <state width="449" height="869" key="GridCell.Tab.0.left" timestamp="1594033388924">
+      <screen x="-1920" y="25" width="1920" height="1055" />
     </state>
     <state width="1878" height="224" key="GridCell.Tab.0.left/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1590211473667" />
     <state width="1878" height="230" key="GridCell.Tab.0.left/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591248251611" />
@@ -447,7 +435,7 @@
     <state width="1377" height="305" key="GridCell.Tab.0.left/0.23.1280.726/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591162244360" />
     <state width="1878" height="230" key="GridCell.Tab.0.left/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591670798708" />
     <state width="708" height="937" key="GridCell.Tab.0.left/0.23.1280.728/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592211961239" />
-    <state width="706" height="937" key="GridCell.Tab.0.left/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593609315878" />
+    <state width="550" height="937" key="GridCell.Tab.0.left/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593762219928" />
     <state width="207" height="937" key="GridCell.Tab.0.left/0.23.1280.730/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592642640961" />
     <state width="706" height="937" key="GridCell.Tab.0.left/0.23.1280.732/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593654585676" />
     <state width="1878" height="2" key="GridCell.Tab.0.left/0.23.1280.777/-1920.23.1920.1001@-1920.23.1920.1001" timestamp="1589879199484" />
@@ -457,8 +445,9 @@
     <state width="373" height="883" key="GridCell.Tab.0.left/0.23.1920.1003@0.23.1920.1003" timestamp="1593523987445" />
     <state width="394" height="873" key="GridCell.Tab.0.left/0.23.1920.993@0.23.1920.993" timestamp="1592410903311" />
     <state width="265" height="879" key="GridCell.Tab.0.left/0.23.1920.999@0.23.1920.999" timestamp="1592054396214" />
-    <state width="706" height="937" key="GridCell.Tab.0.right" timestamp="1593654585679">
-      <screen x="-1920" y="23" width="1920" height="1057" />
+    <state width="449" height="869" key="GridCell.Tab.0.left/0.25.1280.720/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1594033388924" />
+    <state width="449" height="869" key="GridCell.Tab.0.right" timestamp="1594033388925">
+      <screen x="-1920" y="25" width="1920" height="1055" />
     </state>
     <state width="1878" height="224" key="GridCell.Tab.0.right/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1590211473668" />
     <state width="1878" height="230" key="GridCell.Tab.0.right/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591248251612" />
@@ -468,7 +457,7 @@
     <state width="1377" height="305" key="GridCell.Tab.0.right/0.23.1280.726/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591162244362" />
     <state width="1878" height="230" key="GridCell.Tab.0.right/0.23.1280.727/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591670798711" />
     <state width="708" height="937" key="GridCell.Tab.0.right/0.23.1280.728/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592211961241" />
-    <state width="706" height="937" key="GridCell.Tab.0.right/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593609315880" />
+    <state width="550" height="937" key="GridCell.Tab.0.right/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593762219929" />
     <state width="207" height="937" key="GridCell.Tab.0.right/0.23.1280.730/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592642640962" />
     <state width="706" height="937" key="GridCell.Tab.0.right/0.23.1280.732/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593654585679" />
     <state width="1878" height="2" key="GridCell.Tab.0.right/0.23.1280.777/-1920.23.1920.1001@-1920.23.1920.1001" timestamp="1589879199486" />
@@ -478,6 +467,7 @@
     <state width="373" height="883" key="GridCell.Tab.0.right/0.23.1920.1003@0.23.1920.1003" timestamp="1593523987446" />
     <state width="394" height="873" key="GridCell.Tab.0.right/0.23.1920.993@0.23.1920.993" timestamp="1592410903312" />
     <state width="265" height="879" key="GridCell.Tab.0.right/0.23.1920.999@0.23.1920.999" timestamp="1592054396217" />
+    <state width="449" height="869" key="GridCell.Tab.0.right/0.25.1280.720/-1920.25.1920.1055@-1920.25.1920.1055" timestamp="1594033388925" />
     <state width="1878" height="358" key="GridCell.Tab.1.bottom" timestamp="1592456741764">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
@@ -498,17 +488,21 @@
     </state>
     <state width="1878" height="358" key="GridCell.Tab.1.right/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1588055722172" />
     <state width="1878" height="358" key="GridCell.Tab.1.right/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592456741763" />
-    <state x="420" y="232" key="Vcs.Push.Dialog.v2" timestamp="1593702163263">
-      <screen x="0" y="23" width="1440" height="825" />
+    <state x="-1360" y="291" key="Vcs.Push.Dialog.v2" timestamp="1593748664155">
+      <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
     <state x="-1360" y="291" key="Vcs.Push.Dialog.v2/0.23.1280.721/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1590211538064" />
     <state x="-1360" y="291" key="Vcs.Push.Dialog.v2/0.23.1280.722/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591237867483" />
     <state x="-1360" y="291" key="Vcs.Push.Dialog.v2/0.23.1280.724/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1591103611963" />
     <state x="-1360" y="291" key="Vcs.Push.Dialog.v2/0.23.1280.728/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1592188137113" />
-    <state x="-1360" y="291" key="Vcs.Push.Dialog.v2/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593518938222" />
+    <state x="-1360" y="291" key="Vcs.Push.Dialog.v2/0.23.1280.729/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1593748664155" />
     <state x="-1360" y="277" key="Vcs.Push.Dialog.v2/0.23.1280.777/-1920.23.1920.1001@-1920.23.1920.1001" timestamp="1591006907931" />
     <state x="420" y="232" key="Vcs.Push.Dialog.v2/0.23.1440.825@0.23.1440.825" timestamp="1593702163263" />
     <state x="560" y="275" key="Vcs.Push.Dialog.v2/0.23.1920.993@0.23.1920.993" timestamp="1592410862382" />
+    <state x="658" y="419" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1594030964771">
+      <screen x="0" y="25" width="1920" height="995" />
+    </state>
+    <state x="658" y="419" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.25.1920.995@0.25.1920.995" timestamp="1594030964771" />
     <state x="-1295" y="256" key="run.anything.popup" timestamp="1592212864218">
       <screen x="-1920" y="23" width="1920" height="1057" />
     </state>
